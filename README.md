@@ -28,12 +28,12 @@ These annotations are crucial for training deep learning models, as they provide
 
 ## Challenges in Brain Tumor Segmentation
 Segmentation of brain tumors presents several challenges:
-• Tumor Variability: Tumors differ greatly in shape, size, and appearance, complicating segmentation efforts.
-• Data Imbalance: Tumor regions occupy a relatively small portion of MRI scans compared to healthy tissue, leading to imbalanced class distributions.
-• Image Noise and Overlapping Tissues: MRI scans can include noise and overlapping tissues, which can interfere with accurate segmentation.
+- Tumor Variability: Tumors differ greatly in shape, size, and appearance, complicating segmentation efforts.
+- Data Imbalance: Tumor regions occupy a relatively small portion of MRI scans compared to healthy tissue, leading to imbalanced class distributions.
+- Image Noise and Overlapping Tissues: MRI scans can include noise and overlapping tissues, which can interfere with accurate segmentation.
 
 ## Applications and Future Prospects
 Automatic brain tumor segmentation has numerous applications:
-• Support for Radiologists: Provides additional insights and reduces the time required for manual analysis.
-• Surgical Planning: Helps in identifying tumor boundaries for precise surgical interventions.
-• Treatment Monitoring: Enables tracking of tumor progression or response to treatments.
+- Support for Radiologists: Provides additional insights and reduces the time required for manual analysis.
+- Surgical Planning: Helps in identifying tumor boundaries for precise surgical interventions.
+- Treatment Monitoring: Enables tracking of tumor progression or response to treatments.
