@@ -33,8 +33,8 @@ The primary source of data for this research is the BraTS 2020 dataset, which is
 
 ## 🚀 Performance Metrics
 Here’s a glimpse of how our model performed:
-- Dice Coefficient: Above 0.87 on validation data.
-- Training Time: Efficient utilization of a T4 GPU to minimize runtime.
+- Dice Coefficient: Above 0.97 on validation data.
+- Training Time: Efficient utilization of Two Nvidia Tesla T4 GPU to minimize runtime.
 - Scalability: Designed for real-world deployment on medical-grade imaging data.
 
 
