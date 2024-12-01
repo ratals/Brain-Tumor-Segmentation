@@ -74,4 +74,4 @@ This model isn't just a technical achievement; it's a potential lifesaver:
 I am proud to have developed this model, bringing together technical precision and **a passion for impactful AI solutions**. Every step, from preprocessing to deployment, was driven by a commitment to create something truly meaningful.
 
 ## 📧 Contact
-LinkedIn : Ansh Kapoor
+**LinkedIn** : [Ansh Kapoor](https://www.linkedin.com/in/ansh-kapoor-a153a8222/)
