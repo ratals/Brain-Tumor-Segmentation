@@ -31,8 +31,10 @@ The primary source of data for this research is the BraTS 2020 dataset, which is
 
 <img src = "https://github.com/user-attachments/assets/c1b2d798-7a4c-44c9-9aeb-67be8dbc2fe6" alt = "Data set sample image 1 " width = "750"/>
 
-Ground Truth :<br>
-<img src = "https://github.com/user-attachments/assets/035be700-8474-43d3-b9ee-dd2441168cf1" alt = "Data set sample image 2 " width = "250"/>
+<img src = "https://github.com/user-attachments/assets/c0437f35-3bc0-47ed-9bea-1780db5c0434" alt = "Data set sample image 2 " width = "750"/>
+
+Ground Truth/Mask :<br>
+<img src = "https://github.com/user-attachments/assets/035be700-8474-43d3-b9ee-dd2441168cf1" alt = "Data set sample image 3 " width = "250"/>
 
 
 
@@ -60,9 +62,16 @@ Working closely with a diverse team, this project reflects real-world applicabil
 
 ## 📷 Visual Results
 Below is a sample segmentation output showing the model's ability to accurately delineate tumor regions  <br><br>
-<img src="https://github.com/user-attachments/assets/be960c0b-971a-4d7b-8dff-5d82c8292cc3" alt="Brain Tumor Segmentation" width="500"/>
+<img src="https://github.com/user-attachments/assets/be960c0b-971a-4d7b-8dff-5d82c8292cc3" alt="Prediction Image 1" width="750"/>
 <br>
-<img src = "https://github.com/user-attachments/assets/4e7ded24-d436-488e-b63c-ff9d14998e83" alt = "Brain Tumor Seg 2" width = "1000"/>
+
+<img src="https://github.com/user-attachments/assets/3b693420-7c62-4849-8ae0-5b7a515be664" alt="Prediction Image 2 " width="750"/>
+<br>
+<img src="https://github.com/user-attachments/assets/ca241b91-fe0a-4b1b-a027-ff5b54524805" alt="Prediction Image 2 " width="750"/>
+
+
+<br>
+<img src = "https://github.com/user-attachments/assets/4e7ded24-d436-488e-b63c-ff9d14998e83" alt = "Prediction Image 3" width = "750"/>
 
 
 
