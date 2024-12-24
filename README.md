@@ -17,7 +17,7 @@ With the BraTS2020 dataset as our foundation, we achieved remarkable performance
 - `Architecture`: UNet (optimized for segmentation tasks in medical imaging)
 - `Normalization`: MinMax Scaler for preprocessing
 - `Dice Score`: 🌟 Our model achieved a dice score higher than most naive implementations, reflecting its exceptional precision in tumor boundary segmentation.
-  - [The Dice Similarity Coefficient (DSC), a statistical measure used to gauge the similarity between predicted and ground truth tumor regions, indicated excellent overlap with a high score of 0.9764. The model also achieved an impressive accuracy of 98.64%, demonstrating its reliability in correctly classifying tumor and non-tumor regions.  ]
+  - [The Dice Similarity Coefficient (DSC), a statistical measure used to gauge the similarity between predicted and ground truth tumor regions, indicated excellent overlap with a high score of 0.9764. The model also achieved an impressive accuracy of 0.9864, demonstrating its reliability in correctly classifying tumor and non-tumor regions.  ]
 
 
 
