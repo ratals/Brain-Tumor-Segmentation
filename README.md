@@ -29,6 +29,11 @@ The primary source of data for this research is the BraTS 2020 dataset, which is
 3.	`FLAIR` images : Useful for detecting lesions in the brain, including tumors.
 4.	`Contrast-enhanced T1-weighted` images : These images help identify tumor regions, especially enhancing tumors.
 
+<img src = "https://github.com/user-attachments/assets/c1b2d798-7a4c-44c9-9aeb-67be8dbc2fe6" alt = "Data set sample image 1 " width = "1000"/>
+
+Ground Truth :
+<img src = "https://github.com/user-attachments/assets/035be700-8474-43d3-b9ee-dd2441168cf1" alt = "Data set sample image 2 " width = "1000"/>
+
 
 
 ## 🚀 Performance Metrics
